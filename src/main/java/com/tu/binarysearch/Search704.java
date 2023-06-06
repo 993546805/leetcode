@@ -2,6 +2,7 @@ package com.tu.binarysearch;
 
 
 /**
+ * <a href="https://leetcode-cn.com/problems/binary-search/">704. 二分查找</a>
  * @author tu
  * @date 2023-06-05 14:40
  */
