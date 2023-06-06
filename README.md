@@ -9,3 +9,4 @@
 7. [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 8. [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 9. [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
+10. [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
