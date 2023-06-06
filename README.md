@@ -8,3 +8,4 @@
 6. [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 7. [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
 8. [1608. 特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
+9. [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
