@@ -6,7 +6,7 @@ package com.tu.binarysearch;
  * @author tu
  * @date 2023-06-05 14:00
  */
-public class NextGreatestLetter744 {
+public class NextGreatestLetter_744 {
     public static char nextGreatestLetter(char[] letters, char target) {
         int left = 0;
         int right = letters.length - 1;

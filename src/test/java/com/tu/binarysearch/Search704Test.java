@@ -20,8 +20,8 @@ public class Search704Test {
     */
     @Test
     public void testSearch() throws Exception {
-        Assert.assertEquals(4, Search704.search(new int[]{-1, 0, 3, 5, 9, 12}, 9));        Assert.assertEquals(4, Search704.search(new int[]{-1,0,3,5,9,12}, 9));
-        Assert.assertEquals(1, Search704.search(new int[]{2,5}, 5));
+        Assert.assertEquals(4, Search_704.search(new int[]{-1, 0, 3, 5, 9, 12}, 9));        Assert.assertEquals(4, Search_704.search(new int[]{-1,0,3,5,9,12}, 9));
+        Assert.assertEquals(1, Search_704.search(new int[]{2,5}, 5));
 
     }
 
@@ -32,8 +32,8 @@ public class Search704Test {
      */
     @Test
     public void testSearch1() throws Exception {
-        Assert.assertEquals(4, Search704.search1(new int[]{-1, 0, 3, 5, 9, 12}, 9));        Assert.assertEquals(4, Search704.search(new int[]{-1,0,3,5,9,12}, 9));
-        Assert.assertEquals(1, Search704.search1(new int[]{2,5}, 5));
+        Assert.assertEquals(4, Search_704.search1(new int[]{-1, 0, 3, 5, 9, 12}, 9));        Assert.assertEquals(4, Search_704.search(new int[]{-1,0,3,5,9,12}, 9));
+        Assert.assertEquals(1, Search_704.search1(new int[]{2,5}, 5));
 
     }
 

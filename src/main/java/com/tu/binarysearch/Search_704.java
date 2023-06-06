@@ -6,7 +6,7 @@ package com.tu.binarysearch;
  * @author tu
  * @date 2023-06-05 14:40
  */
-public class Search704 {
+public class Search_704 {
 
     /**
      * 左闭右开

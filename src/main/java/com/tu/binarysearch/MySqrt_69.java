@@ -5,7 +5,7 @@ package com.tu.binarysearch;
  * @author tu
  * @date 2023-06-06 16:28
  */
-public class MySqrt69 {
+public class MySqrt_69 {
     public static int mySqrt(int x) {
         int left = 0;
         int right = x;

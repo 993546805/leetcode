@@ -5,7 +5,7 @@ package com.tu.binarysearch;
  * @author tu
  * @date 2023-06-06 14:49
  */
-public class FindKthPositive1539 {
+public class FindKthPositive_1539 {
 
     public static int findKthPositive(int[] arr, int k) {
         int missCount = 0, lassMiss = -1, current = 1, ptr = 0;

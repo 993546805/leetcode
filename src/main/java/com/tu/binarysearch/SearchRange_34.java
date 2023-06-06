@@ -6,7 +6,7 @@ package com.tu.binarysearch;
  * @author tu
  * @date 2023-06-06 16:14
  */
-public class SearchRange34 {
+public class SearchRange_34 {
 
     /**
      * 自己的二分法思想: 先找到target 左边界和右边界中的某个下标,然后再根据该下标循环找出左边界和右边界

@@ -8,7 +8,7 @@ public class MySqrt69Test {
 
     @Test
     public void mySqrt() {
-        int val = MySqrt69.mySqrt(2147395599);
+        int val = MySqrt_69.mySqrt(2147395599);
         assertEquals(46339, val);
     }
 }
