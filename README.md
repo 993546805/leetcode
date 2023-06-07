@@ -1,3 +1,9 @@
+# 2023-06-07
+## 二分法
+1. [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
+2. [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
+3. [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/)
+
 # 2023-06-06 
 ## 二分法
 1. [1539. 第 k 个缺失的正整数](https://leetcode-cn.com/problems/kth-missing-positive-number/)
