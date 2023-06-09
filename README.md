@@ -1,3 +1,9 @@
+# 2023-06-08
+## 删除元素-双指针
+1. [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)
+2. [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)
+3. [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
+4. [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare)
 # 2023-06-07
 ## 二分法
 1. [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)
