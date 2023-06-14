@@ -1,4 +1,4 @@
-package com.tu.removeelement;
+package com.tu.arr.removeelement;
 
 /**
  * <a href=https://leetcode-cn.com/problems/backspace-string-compare/>844. 比较含退格的字符串</a>

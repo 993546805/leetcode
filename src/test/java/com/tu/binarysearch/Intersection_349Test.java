@@ -1,5 +1,6 @@
 package com.tu.binarysearch;
 
+import com.tu.arr.binarysearch.Intersection_349;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

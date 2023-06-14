@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 
 /**

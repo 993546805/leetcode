@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode-cn.com/problems/search-insert-position/">35. 搜索插入位置</a>

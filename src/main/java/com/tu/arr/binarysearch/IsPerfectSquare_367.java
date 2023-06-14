@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode-cn.com/problems/valid-perfect-square/">367. 有效的完全平方数</a>

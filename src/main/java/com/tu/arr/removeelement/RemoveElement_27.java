@@ -1,4 +1,4 @@
-package com.tu.removeelement;
+package com.tu.arr.removeelement;
 
 /**
  * <a href="https://leetcode-cn.com/problems/remove-element/">27. 移除元素</a>

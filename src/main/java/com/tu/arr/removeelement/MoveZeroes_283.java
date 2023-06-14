@@ -1,4 +1,4 @@
-package com.tu.removeelement;
+package com.tu.arr.removeelement;
 
 /**
  * <a href="https://leetcode-cn.com/problems/move-zeroes/">283. 移动零</a>

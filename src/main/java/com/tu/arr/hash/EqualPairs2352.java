@@ -1,4 +1,4 @@
-package com.tu.hash;
+package com.tu.arr.hash;
 
 import java.util.ArrayList;
 import java.util.HashMap;

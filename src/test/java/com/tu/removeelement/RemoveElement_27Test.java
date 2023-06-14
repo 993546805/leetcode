@@ -1,6 +1,6 @@
 package com.tu.removeelement;
 
-import com.tu.removeelement.RemoveElement_27;
+import com.tu.arr.removeelement.RemoveElement_27;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

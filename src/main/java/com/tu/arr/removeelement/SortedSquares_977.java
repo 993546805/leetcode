@@ -1,4 +1,4 @@
-package com.tu.removeelement;
+package com.tu.arr.removeelement;
 
 /**
  * <a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">977. 有序数组的平方</a>

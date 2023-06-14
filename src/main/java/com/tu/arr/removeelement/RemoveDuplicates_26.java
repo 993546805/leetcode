@@ -1,4 +1,4 @@
-package com.tu.removeelement;
+package com.tu.arr.removeelement;
 
 /**
  * <a href="https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/">26. 删除有序数组中的重复项</a>

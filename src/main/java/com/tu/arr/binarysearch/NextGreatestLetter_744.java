@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode.cn/problems/find-smallest-letter-greater-than-target/">744. 寻找比目标字母大的最小字母</a>

@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode-cn.com/problems/kth-missing-positive-number/">1539. 第 k 个缺失的正整数</a>

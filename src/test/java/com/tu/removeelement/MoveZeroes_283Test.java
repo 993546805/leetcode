@@ -1,5 +1,6 @@
 package com.tu.removeelement;
 
+import com.tu.arr.removeelement.MoveZeroes_283;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

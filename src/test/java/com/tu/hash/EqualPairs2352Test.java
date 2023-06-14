@@ -1,9 +1,8 @@
 package com.tu.hash;
 
+import com.tu.arr.hash.EqualPairs2352;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class EqualPairs2352Test {
 

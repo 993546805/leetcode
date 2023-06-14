@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode.cn/problems/sqrtx/">69. x的平方根</a>

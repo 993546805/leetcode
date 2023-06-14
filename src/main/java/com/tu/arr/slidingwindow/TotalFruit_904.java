@@ -1,4 +1,4 @@
-package com.tu.slidingwindow;
+package com.tu.arr.slidingwindow;
 
 import java.util.HashMap;
 import java.util.Map;

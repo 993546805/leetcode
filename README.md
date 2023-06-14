@@ -1,4 +1,10 @@
 # 2023-06-14
+# 链表
+1. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+2. [707. 设计链表](https://leetcode-cn.com/problems/design-linked-list/)
+3. [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)
+## 螺旋数组
+1. [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)
 ## 滑动窗口
 1. [904. 水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/)
 

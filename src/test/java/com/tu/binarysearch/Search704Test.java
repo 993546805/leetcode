@@ -1,5 +1,6 @@
 package com.tu.binarysearch;
 
+import com.tu.arr.binarysearch.Search_704;
 import org.junit.Assert;
 import org.junit.Test;
 

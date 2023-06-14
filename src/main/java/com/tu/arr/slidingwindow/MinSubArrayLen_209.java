@@ -1,4 +1,4 @@
-package com.tu.slidingwindow;
+package com.tu.arr.slidingwindow;
 
 /**
  * <a href="https://leetcode.cn/problems/minimum-size-subarray-sum/">209. 长度最小的子数组</a>

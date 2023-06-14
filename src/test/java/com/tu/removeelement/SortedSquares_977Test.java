@@ -1,11 +1,10 @@
 package com.tu.removeelement;
 
+import com.tu.arr.removeelement.SortedSquares_977;
 import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.Random;
-
-import static org.junit.Assert.*;
 
 /**
  * <a href="https://leetcode-cn.com/problems/squares-of-a-sorted-array/">977. 有序数组的平方</a>

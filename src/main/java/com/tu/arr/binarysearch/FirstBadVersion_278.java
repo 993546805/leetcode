@@ -1,4 +1,4 @@
-package com.tu.binarysearch;
+package com.tu.arr.binarysearch;
 
 /**
  * <a href="https://leetcode-cn.com/problems/first-bad-version/">278. 第一个错误的版本</a>
